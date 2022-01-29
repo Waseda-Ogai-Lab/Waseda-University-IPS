@@ -4,9 +4,9 @@ The Chinese introduction for life in Waseda University, Kitakyushu Campus, Gradu
 
 # Waseda University, Kitakyushu Campus, Graduate School of Information, Production and System.
 
-by 早稻田2016年入学的伙伴们
+by 早稻田大学 2016 年入学的伙伴们 from Southeast University 2013
 
-联系方式 yvon-shong@foxmail.com from Southeast University 2013
+联系方式：请提交 [issue](https://github.com/Waseda-Ogai-Lab/Waseda-University-IPS/issues)
 
 since 2017.5 信息可能有不适用的 麻烦看官帮忙更新补充
 
@@ -16,26 +16,6 @@ since 2017.5 信息可能有不适用的 麻烦看官帮忙更新补充
 # 前言：
 
 ![image.png](https://s2.loli.net/2022/01/28/aSoJsPcf1pTHrBG.png)
-
-
-
-
-
-# 项目评价：
-
-## 适宜人群：
-
-## 学术：
-
-## 
-## 留学：
-
-## 
-## 就业：
-
-# 申请材料：
-
-
 
 # 出国时要准备的：
 
@@ -154,11 +134,7 @@ since 2017.5 信息可能有不适用的 麻烦看官帮忙更新补充
 
 ### KSRP园区地图
 
-
-
 [http://www.ksrp.or.jp/access/](http://www.ksrp.or.jp/access/)
-
-
 
 机场至学校：
 
