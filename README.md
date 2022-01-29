@@ -1,9 +1,6 @@
 # Waseda-University-IPS-Orientation
 The Chinese introduction for life in Waseda University, Kitakyushu Campus, Graduate School of Information, Production and System.
 
-
-# Waseda University, Kitakyushu Campus, Graduate School of Information, Production and System.
-
 by 早稻田大学 2016 年入学的伙伴们 from Southeast University 2013
 
 联系方式：请提交 [issue](https://github.com/Waseda-Ogai-Lab/Waseda-University-IPS/issues)
